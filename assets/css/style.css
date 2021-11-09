@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .main{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+} */
+/* informaton */
+form{
+    padding: 10px;
+}
+form .top{
+    display: flex;
+    justify-content: space-between;
+}
+
+form input, .form-select{
+    outline: none;
+    cursor: pointer;
+}
+
+form span{
+    color: red;
+}
+
+i{
+    cursor: pointer;
+}
+
+
+
+
+
+
